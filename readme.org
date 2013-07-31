@@ -13,3 +13,4 @@
 
 *** 待处理的问题：
 **** frontend framework 有时候没有打包 entrance.js 文件，导致前端没有保存
+**** layout 会继承到 controller 的 viewIn 属性 
