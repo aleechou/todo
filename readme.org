@@ -1,76 +1,15 @@
 #+STARTUP: indent
+#+STARTUP: showall
 
-* OpenComb
+* OpenComb                                                                      :opencomb:
 
-** ocFramework
+** ocFramework                                                                 ::ocframework:
 
 *** 待实现的特性：
-模板和前端命名空间里需要表示 root url 的预定义变量
-<lib>模板标签 和 对应的 frontend api
-pjax请求应该有更明显的报错，直接将错误实现在网页上，而非控制台
+**** 模板和前端命名空间里需要表示 root url 的预定义变量
+**** <lib>模板标签 和 对应的 frontend api
+**** pjax请求应该有更明显的报错，直接将错误实现在网页上，而非控制台
+**** helper.config
 
- 1. sss
- 2. sdsd
-
-sdfas [1] sdfasd
-
-
-[1] The link is: http://www.baidu.com
-
-
-*** sdsd
-
-dfas
-
-*** sdsasf
-
-*ssdfsf*
-
-/sdfaf/
-+sfasdfa+
-_sdaf_
-H_2 O
-E=mc^2
-sfasdf
-～git～
-ggmm
-=iiiiiii=
-mmmmmmmm
-iiiiiiii
-==sdfasdf==
--sdfadfasdf-
-| sdfasd | fdasdfa |
-|--------+---------|
-| sfaf   | safaf   |
-| ewfqw  | ewefw   |
-|        |         |
-|        |         |
-
-+ sdf asdf
-+ sdfas
-+ fafe
-  - sdfas
-  - sfssdfa :: sdf
-  - sdfaf :: sdfasdf
-
-
-* STARTED ssss
-
-|sss|sss|
-
-
-
-|   | <4>  |   |
-|---+------+---|
-| 1 | onssssssssse |   |
-| 2 | two  |   |
-| 3 | This=> |   |
-| 4 | four |   |
-
-
-*** manual :
-
-**** db
-
-helper
-
+*** 待处理的问题：
+**** frontend framework 有时候没有打包 entrance.js 文件，导致前端没有保存
