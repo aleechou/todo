@@ -10,6 +10,9 @@
 **** <lib>模板标签 和 对应的 frontend api
 **** pjax请求应该有更明显的报错，直接将错误实现在网页上，而非控制台
 **** helper.config
+**** Former aop
+***** user delete/create event
+**** 视图的viewIn/viewOut支持独立脚本
 
 *** 待处理的问题：
 **** frontend framework 有时候没有打包 entrance.js 文件，导致前端没有保存
