@@ -13,7 +13,11 @@
 **** Former aop
 ***** user delete/create event
 **** 视图的viewIn/viewOut支持独立脚本
+**** template file watching
 
 *** 待处理的问题：
 **** frontend framework 有时候没有打包 entrance.js 文件，导致前端没有保存
-**** layout 会继承到 controller 的 viewIn 属性 
+**** DONE +layout 会继承到 controller 的 viewIn 属性+ 
+CLOSED: [2013-08-01 Thu 09:39]
+- State "DONE"       from "STARTED"    [2013-08-01 Thu 09:39]
+
